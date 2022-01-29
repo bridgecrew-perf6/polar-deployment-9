@@ -8,4 +8,4 @@ spec:
   interval: 30s
   ref:
     branch: main
-  url: ssh://git@github.com/npalm/polar-deploymen
+  url: ssh://git@github.com/npalm/polar-deployment
