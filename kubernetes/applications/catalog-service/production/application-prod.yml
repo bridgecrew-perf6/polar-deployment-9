@@ -20,6 +20,7 @@ logging:
   level:
     web: DEBUG
     org.springframeworksecurity: DEBUG
+
 management:
   endpoints:
     web:
